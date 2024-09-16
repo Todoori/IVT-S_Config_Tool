@@ -49,7 +49,3 @@ For some more informatin about the Messages in general: ![IVT.md](IVT.md)
         - If multiple Sensors share the same response ID, make sure only one Sensor is connected at that time.
         - For more information, read the IVT-S How To's document
      
-
-
-google-site-verification: google4b3f48615224d196.html
-
