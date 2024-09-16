@@ -44,6 +44,9 @@ For some more informatin about the Messages in general: ![IVT.md](IVT.md)
     3. Send Store
     4. Send Run 
 
+
+google-site-verification: google4b3f48615224d196.html
+
 - How to get the current command ID
     - On Restart, the Sensors sends a Message containing it's command ID in DB 1&2. 
         - If multiple Sensors share the same response ID, make sure only one Sensor is connected at that time.
